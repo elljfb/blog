@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://elljfb.github.io/blog/"
+baseURL = "https://elljfb.xyz"
 title = "Elliot Fagan-Briggs"
 theme = "paper"
 author = "Elliot Fagan-Briggs"
