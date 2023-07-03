@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://elljfb.xyz"
 title = "Elliot Fagan-Briggs"
-theme = "paper"
+theme = "mini"
 author = "Elliot Fagan-Briggs"
 copyright = "Copyright © 2023, Elliot Fagan-Briggs; all rights reserved."
 paginate = 20
