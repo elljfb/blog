@@ -9,8 +9,11 @@ languageCode = "en"
 DefaultContentLanguage = "en"
 
 [params]
-  twitter = 'ELLJFB'
-  instagram = 'ELLJFB'
   avatar = 'https://pbs.twimg.com/profile_images/970570368376279040/hsZMVovD_400x400.jpg'                 # gravatar email or image url
   name = 'Elliot Fagan-Briggs'
   bio = 'A blog for jotting down my head full of schemes.'
+  enableRSS: true
+  showPowerBy: false
+
+social: 
+    twitter: https://twitter.com/elljfb
